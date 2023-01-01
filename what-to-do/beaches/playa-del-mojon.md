@@ -9,7 +9,7 @@ nav_order: 1
 # Playa del Mojon
 
 {: .note }
-Closest beach to the apartment. We suggest to go to the middle of the beach (aproxiametely to the blue beach watch tower). There it's a bit deeper also less likely to find sea urchin 😊
+Closest beach to the apartment. We suggest to go to the middle of the beach (approximately to the blue beach watch tower). There it's a bit deeper also less likely to find sea urchin 😊
 
 ![]({{ site.url | append: '/assets/images/playa-del-mojon.jpeg' }})
 
