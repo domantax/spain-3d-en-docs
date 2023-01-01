@@ -1,0 +1,12 @@
+title: Apartment 3A
+description: Documentation for apartment 3A, Rosa de los Vientos, Isla Plana
+theme: just-the-docs
+
+url: https://domantax.github.io/spain-3a-en-docs
+
+permalink: /:title
+
+callouts:
+  note:
+    title: Note
+    color: yellow
