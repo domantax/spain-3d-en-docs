@@ -12,8 +12,7 @@ Welcome to Rosa de los Vientos! We hope that your stay in our apartment will be 
 This apartment is highly equipped with various devices and electrical appliances for your comfort. We hope that you will find it very satisfactory.
 
 {: .note }
-> TO CHANGE
-> If there is anything that you need during your stay, please not hesitate to contact our apartment caretakers ....
+> If there is anything that you need during your stay, please not hesitate to contact our apartment caretakers: Adele `+44 7435 628911` and Marisol `+34 633 600 023`
 
 We have collected this information about the apartment and local area for your convenience and further enjoyment of Costa Calida. This area has a lot to offer and it is just waiting to be explored. Hopefully you will love Costa Calida as much as we do and decide to return for another stay.
 

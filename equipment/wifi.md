@@ -12,4 +12,4 @@ We are delighted to be able to offer you free wifi here in the apartment. The si
 
 | Name              | Password |
 |:------------------|:---------|
-| wimaz_stankiene3A | `password can be found in the apartment`  |
+| WIMAZ_FIBRA_VIOLETA.3D | `password can be found in the apartment`  |
